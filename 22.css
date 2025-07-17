@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    background: url('11.jpg') no-repeat center center;
+    background: url('/atw/11.jpg') no-repeat center center;
     background-size: cover;
     color: white;
     min-height: 400px;
@@ -136,15 +136,15 @@ body {
 }
 
 .beach {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('22(1).jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/atw/22(1).jpg');
 }
 
 .excursion {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('33.jpeg');
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/atw/33.jpeg');
 }
 
 .active {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('44.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/atw/44.jpg');
 }
 
 .footer {
@@ -187,7 +187,6 @@ body {
     border-radius: 8px;
     margin-bottom: 20px;
 }
-/* Стили для формы обратной связи */
 .feedback-form-container {
     max-width: 600px;
     margin: 0 auto;
